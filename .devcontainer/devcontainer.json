@@ -5,6 +5,10 @@
         "--network=host",
     ],
     "extensions": [
-        "kosz78.nim"
+        // Primary Nim plugin
+        "kosz78.nim",
+
+        // Some plugins I like that you probably want to work in your container
+        "eamodio.gitlens",
     ],
 }
