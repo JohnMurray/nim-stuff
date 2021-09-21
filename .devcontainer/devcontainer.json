@@ -1,0 +1,10 @@
+{
+    "name": "nim-stuff",
+    "dockerFile": "Dockerfile",
+    "runArgs": [
+        "--network=host",
+    ],
+    "extensions": [
+        "kosz78.nim"
+    ],
+}
