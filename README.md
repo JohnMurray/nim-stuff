@@ -1,5 +1,7 @@
 # nim-stuff
 
+[![Passing Tests](https://github.com/JohnMurray/nim-stuff/actions/workflows/test.yaml/badge.svg)](https://github.com/JohnMurray/nim-stuff/actions/workflows/test.yaml)
+
 A basic starter-template for working with Nim in VSCode's container environments. Ships with:
 
   + Nim `1.4.8`
