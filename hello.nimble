@@ -3,7 +3,7 @@
 version       = "0.1.0"
 author        = "Your Name <you AT your.domain>"
 description   = "description description description"
-license       = "MIT"
+license       = "GNU AGPL v3.0"
 srcDir        = "src"
 
 
