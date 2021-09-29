@@ -11,6 +11,10 @@ A basic starter-template for working with Nim in VSCode's container environments
     + `src/` and `tests/` directory that can be exercised out of the box
   + Basic GitHub workflow for testing
 
+To be added soon
+  + [ ] Nimble publish support
+  + [ ] Doc generation (for gh-pages)
+
 To get started:
 
   + Copy this template & clone it
