@@ -13,6 +13,9 @@ A basic starter-template for working with Nim in VSCode's container environments
   + Basic standard tooling (gcc, git, curl, zsh, etc)
 
 To be added soon
+  + [ ] Add some basic (vscode) tasks for testing/building
+  + [ ] Fix test to write binaries to a `build/` dir or something
+  + [ ] Mount home directory so configs for zsh/bash/git aren't missing
   + [ ] Nimble publish support
   + [ ] Doc generation (for gh-pages)
 
