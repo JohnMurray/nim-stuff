@@ -10,7 +10,7 @@ A basic starter-template for working with Nim in VSCode's container environments
     + Nimble configuration with a basic test task
     + `src/` and `tests/` directory that can be exercised out of the box
   + Basic GitHub workflow for testing
-  + Basic standard tooling (git, curl, zsh, etc)
+  + Basic standard tooling (gcc, git, curl, zsh, etc)
 
 To be added soon
   + [ ] Nimble publish support
